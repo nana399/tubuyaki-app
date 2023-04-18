@@ -19,11 +19,6 @@
 ## デモ
 [![Image from Gyazo](https://i.gyazo.com/2a7c4c2dd737d75db2e440fdbae8471c.gif)](https://gyazo.com/2a7c4c2dd737d75db2e440fdbae8471c)
 
-## これから追加予定の機能
-- 「いいね」機能
-- 画像投稿機能
-- コメント機能
-- 達成できたかのチェックボックス✅ ←これを導入したい
 
 ## 環境
 - Ruby 2.7.2
